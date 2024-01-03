@@ -1,0 +1,15 @@
+/workspaces/ProjetoEstacionamento/bin/Debug/net7.0/ProjetoEstacionamento
+/workspaces/ProjetoEstacionamento/bin/Debug/net7.0/ProjetoEstacionamento.deps.json
+/workspaces/ProjetoEstacionamento/bin/Debug/net7.0/ProjetoEstacionamento.runtimeconfig.json
+/workspaces/ProjetoEstacionamento/bin/Debug/net7.0/ProjetoEstacionamento.dll
+/workspaces/ProjetoEstacionamento/bin/Debug/net7.0/ProjetoEstacionamento.pdb
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.csproj.AssemblyReference.cache
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.AssemblyInfoInputs.cache
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.AssemblyInfo.cs
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.csproj.CoreCompileInputs.cache
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.dll
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/refint/ProjetoEstacionamento.dll
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.pdb
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ProjetoEstacionamento.genruntimeconfig.cache
+/workspaces/ProjetoEstacionamento/obj/Debug/net7.0/ref/ProjetoEstacionamento.dll
