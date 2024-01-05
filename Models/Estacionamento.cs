@@ -20,9 +20,9 @@ namespace ProjetoEstacionamento.Models
         }
 
         // Método para Adicionar um Novo Veículo
-        public void AdicionarVeículo(string placa) 
+        public void AdicionarVeiculo(string placa) 
         {
-            veiculos.Add(placa);
+            veiculos.Add(placa.ToUpper());
         }
 
         // Método para Remover um Veículo
@@ -31,12 +31,19 @@ namespace ProjetoEstacionamento.Models
             if(veiculos.Contains(placa.ToUpper()))
             {
                 System.Console.WriteLine("Quantas horas o carro esteve estacionado?: ");
-                string horas = Console.ReadLine();
+                string horas = Console.ReadLine()!;
                 if(int.TryParse(horas, out int hora))
                 {
-                    System.Console.WriteLine("O valor a ser pago é de: " + precoInicial * (precoPorHora * hora));
+                    System.Console.WriteLine("O valor a ser pago é de: R$" + precoInicial * (precoPorHora * hora));
                     veiculos.Remove(placa.ToUpper());
                 }
+                else 
+                {
+                    Console.WriteLine("Não foi possível remover o veículo. Valor de horas estacionadas inválido!");
+                }
+            } 
+            else {
+                System.Console.WriteLine("Veículo não encontrado!");
             }
         }
 
